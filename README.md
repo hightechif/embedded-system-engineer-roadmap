@@ -10,19 +10,19 @@
 *Goal: Understand the physical reality of the processor and the "Manual Transmission" of C.*
 
 ### **Month 1: Digital Logic & Hardware Mechanics**
-- [ ] **Week 1: Transistors to Gates**
-    - [ ] Physics of PN junctions to CMOS NAND/NOR logic.
-    - [ ] Logic levels, propagation delay, and noise margins.
-- [ ] **Week 2: Sequential Logic & Memory**
-    - [ ] Master D-Flip-Flops and Shift Registers.
-    - [ ] Understand the feedback loop in an SR Latch and "Illegal States."
+- [x] **Week 1: Transistors to Gates**
+    - [x] Physics of PN junctions to CMOS NAND/NOR logic.
+    - [x] Logic levels, propagation delay, and noise margins.
+- [x] **Week 2: Sequential Logic & Memory**
+    - [x] Master D-Flip-Flops and Shift Registers.
+    - [x] Understand the feedback loop in an SR Latch and "Illegal States."
     
-- [ ] **Week 3: ALU & Datapath**
-    - [ ] Build an 8-bit adder and a Multiplexer (MUX) in logic.
-    - [ ] Understand how a CPU selects data paths based on opcodes.
-- [ ] **Week 4: Instruction Set Architecture (ISA)**
-    - [ ] RISC vs. CISC: Deep dive into the ARM Thumb-2 instruction set.
-    - [ ] Compare Harvard vs. von Neumann bus architectures.
+- [x] **Week 3: ALU & Datapath**
+    - [x] Build an 8-bit adder and a Multiplexer (MUX) in logic.
+    - [x] Understand how a CPU selects data paths based on opcodes.
+- [x] **Week 4: Instruction Set Architecture (ISA)**
+    - [x] RISC vs. CISC: Deep dive into the ARM Thumb-2 instruction set.
+    - [x] Compare Harvard vs. von Neumann bus architectures.
 
 ### **Month 2: Professional Embedded C**
 - [ ] **Week 5: Memory Segments & Lifetimes**
